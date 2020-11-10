@@ -1,0 +1,12 @@
+{
+  "name": "BaseApp",
+  "displayName": "BaseApp",
+  "expo": {
+    "name": "BaseApp",
+    "slug": "BaseApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
